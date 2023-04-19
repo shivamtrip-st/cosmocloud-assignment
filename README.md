@@ -1,13 +1,14 @@
 # cosmocloud-assignment
 cosmocloud assignment project
 
-# link :
+# link : https://cosmocloud-frontend-assignment.netlify.app/
+
 # installation :
 ```npm install```
 # start server 
 ```npm start ```
 
-#Description:
+# Description:
 
 Here basic react project is created which adds or deletes data types and their entries according to users need.
 Here inside src folder components are used 
